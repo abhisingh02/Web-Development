@@ -1,0 +1,64 @@
+/*p{
+    font-family: "Ink Free";
+    font-style: italic;
+    font-weight: bold;
+    font-size: 18px;
+    text-decoration: underline;
+    color: aquamarine;
+}
+
+h1{
+    font-family: "Aldrich";
+    color: #00FF00;
+}
+body{
+    background-color: #000000;
+}
+
+p{
+    padding: 15px;
+    border-style: solid;
+    border-style: dashed;
+    border-style: outset;
+    border-width: 3px;
+    border-color: green;
+    border-radius: 1px;
+}
+h1{
+    border-bottom-style: dotted;
+}
+
+body{
+    background-color: black;
+    color: white;
+}
+
+html{
+    background-color: green;
+    background-color: rgb(100, 255, 75);
+    background: linear-gradient(grey,black);
+    background-repeat: no-rapeat;
+    color: white;
+    background-image: url(https://imgs.search.brave.com/CXK1gtxekBEj4GRG6RpetZDt6m6wulQtqtNhPPhklG8/rs:fit:759:225:1/g:ce/aHR0cHM6Ly90c2Uy/Lm1tLmJpbmcubmV0/L3RoP2lkPU9JUC5F/NVhSc1hPWEFZNXBG/bmhNS0RvVThnSGFF/byZwaWQ9QXBp);
+}
+
+h1{
+    background: linear-gradient(red,orange);
+}
+
+p{
+    background: linear-gradient(grey,black);
+}
+
+a:link{
+    color: #78ffd0;
+}
+a:visited{
+    color: #d359ff;
+}
+button:hover{
+
+    background-color: #ff4529;
+    color: white;
+}*/
+
