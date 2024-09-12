@@ -1,2 +1,4 @@
-console.log(myYoutubeName);
-// console.log(anotherName);
+handleObject({
+//     username: "abhi",
+//     price: 399
+// })
